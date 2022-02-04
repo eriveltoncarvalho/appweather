@@ -16,4 +16,4 @@
  <a><strong>Layout do aplicativo:</strong></a>
 </p>
 
-![app-weather](https://user-images.githubusercontent.com/26490823/152460961-12f26ada-a444-4a5b-896f-e41ecc22a02a.jpg)
+![app-weather](https://user-images.githubusercontent.com/26490823/152461513-faa81ca1-e6ca-489b-a60d-78cc4011f3ec.jpg)
