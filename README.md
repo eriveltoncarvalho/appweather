@@ -15,3 +15,4 @@
 <p>
  <a><strong>Layout do aplicativo:</strong></a>
 </p>
+![app-weather](https://user-images.githubusercontent.com/26490823/152460961-12f26ada-a444-4a5b-896f-e41ecc22a02a.jpg)
